@@ -1,0 +1,27 @@
+{
+  "formatVersion" : 1,
+  "passTypeIdentifier" : "pass.com.locus.applewallet",
+  "teamIdentifier" : "6ST4QA3X2Z",
+  "barcode" : {
+    "message" : "",
+    "format" : "PKBarcodeFormatQR",
+    "messageEncoding" : "iso-8859-1"
+  },
+  "organizationName" : "Organization",
+  "description" : "description",
+  "logoText" : "LogoText",
+  "foregroundColor" : "rgb(255, 255, 255)",
+  "backgroundColor" : "rgb(0, 0, 0)",
+  "generic" : {
+    "primaryFields" : [
+    
+    ],
+    "secondaryFields" : [
+     
+    ],
+    "auxiliaryFields" : [
+    
+    ]
+   
+  }
+}

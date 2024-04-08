@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "file-system": "^1.2.9",
+    "passkit-generator": "^3.1.11"
+  }
+}
